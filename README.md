@@ -27,6 +27,10 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10mm-notebook&layout=compact&bg_color=60,c6ebeb,f8e7e7&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/10mm-notebook?pet-id=1" width="1000" height="120"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=10mm-notebook&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/10mm-notebook"
+  width="600"
+  height="300"
+/>
 </a>
