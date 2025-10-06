@@ -35,4 +35,4 @@
 />
 </a>
 
-[![Solved.ac Profile](https://mazandi.vercel.app/api/v2/generate_badge?boj=zoo5559203)](https://solved.ac/zoo5559203/)
+[![Solved.ac Profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/v2?handle=zoo5559203)](https://solved.ac/zoo5559203/)
