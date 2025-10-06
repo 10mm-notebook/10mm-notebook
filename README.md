@@ -34,4 +34,4 @@
   height="300"
 />
 </a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zoo5559203)](https://solved.ac/zoo5559203)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zoo5559203)](https://solved.ac/zoo5559203)​
